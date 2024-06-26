@@ -45,7 +45,7 @@ public class HashMapPlayground {
         System.out.println(fun.keySet());
 
 
-
+        CharacterCounting.charCounting("Hello");
 
 
         /*They dont have an order (not like arraylist)*/
