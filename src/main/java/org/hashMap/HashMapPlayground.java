@@ -44,6 +44,7 @@ public class HashMapPlayground {
         System.out.println(fun.values());
         System.out.println(fun.keySet());
 
+        //System.out.println(fun.getOrDefault());
 
         CharacterCounting.charCounting("Hello");
 
