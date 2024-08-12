@@ -3,7 +3,7 @@
 
 Understanding the Java Collections Framework is essential for effectively managing and manipulating data structures in Java. Below are detailed explanations and code examples for various types of collections, including `List`, `ArrayList`, `Set`, `Map`, and `HashMap`.
 
-## [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
+## [List]
 
 The `List` ==interface== in Java represents an ==ordered== collection (also known as a ==sequence==). It ==allows duplicate== elements and provides methods to access elements by their index.
 
@@ -27,9 +27,9 @@ public class ListExample {
         System.out.println(myList);
     }
 }
+```
 
-
-## [ArrayList](https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html)
+## [ArrayList]
 
 `ArrayList` is a resizable array implementation of the `List` interface. It provides fast access to elements and is suitable for scenarios where frequent access and occasional modifications are required.
 
@@ -53,7 +53,7 @@ public class ArrayListExample {
 }
 ```
 
-## [Set](https://docs.oracle.com/javase/8/docs/api/java/util/Set.html)
+## [Set]
 
 The `Set` interface represents a collection that does not allow duplicate elements. It is used to model mathematical set operations.
 
@@ -78,7 +78,7 @@ public class SetExample {
 }
 ```
 
-## [Map](https://docs.oracle.com/javase/8/docs/api/java/util/Map.html)
+## [Map]
 
 The `Map` interface represents a collection of key-value pairs, where each key is unique. It allows you to associate a value with a specific key.
 
@@ -103,7 +103,7 @@ public class MapExample {
 }
 ```
 
-## [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
+## [HashMap]
 
 `HashMap` is a hash table-based implementation of the `Map` interface. It allows null keys and values and provides constant-time performance for basic operations (get and put).
 
