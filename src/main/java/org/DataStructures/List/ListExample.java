@@ -26,5 +26,21 @@ public class ListExample {
         ArrayList<String> arList = new ArrayList<String>();
 
 
+        List<String> myList = new ArrayList<>();
+        myList.add("Apple");
+        myList.add("Banana");
+        myList.add("Cherry");
+        myList.add("Date");
+        myList.add("Elderberry");
+        myList.add("Fig");
+        myList.add("Grape");
+        myList.add("Apple"); // Duplicate element
+
+        System.out.println("myList: " + myList);
+
+
+
+
+
     }
 }
