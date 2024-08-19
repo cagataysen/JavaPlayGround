@@ -1,4 +1,4 @@
-package org.newFeatures;
+package org.java8.newFeatures;
 
 public class Main {
     public static void main(String[] args) {

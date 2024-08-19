@@ -1,4 +1,4 @@
-package org.newFeatures;
+package org.java8.newFeatures;
 
 import java.util.ArrayList;
 import java.util.List;
