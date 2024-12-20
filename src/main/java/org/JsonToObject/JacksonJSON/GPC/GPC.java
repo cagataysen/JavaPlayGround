@@ -1,4 +1,4 @@
-package org.JsonToObject.JacksonObjectMapperUsage;
+package org.JsonToObject.JacksonJSON.GPC;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.ObjectMapper;
