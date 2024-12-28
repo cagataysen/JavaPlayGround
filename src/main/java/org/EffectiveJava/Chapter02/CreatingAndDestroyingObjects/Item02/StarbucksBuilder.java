@@ -1,5 +1,9 @@
 package org.EffectiveJava.Chapter02.CreatingAndDestroyingObjects.Item02;
 
+/**
+ * Consider a builder when faced with many constructor parameters.
+ */
+
 public class StarbucksBuilder {
     //necessery
     private String coffeeSize;
